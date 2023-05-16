@@ -1,1 +1,6 @@
-<?php echo  "como esta mexico"; ?>
+<?php 
+
+    $ocean = "telmex";
+    echo  "$ocean";
+    
+?>
